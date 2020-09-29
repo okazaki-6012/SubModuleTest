@@ -1,0 +1,3 @@
+[submodule "SubModuleChild"]
+	path = SubModuleChild
+	url = git@github.com:okazaki-6012/SubModuleChild.git
